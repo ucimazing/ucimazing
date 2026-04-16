@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Umesh — DevOps engineer becoming an SRE.
 
-<!--
-**ucimazing/ucimazing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 1.7 years into my engineering career at Deloitte USI, building toward a remote Site Reliability Engineering role outside India. I write about what I ship at **[umeshdas.dev](https://umeshdas.dev)**.
 
-Here are some ideas to get you started:
+#### What I'm working on right now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **fasttransfer** — a WebRTC-based file transfer platform; productionizing on Azure Kubernetes Service with full Prometheus/Grafana observability and chaos-tested reliability
+- **Switching my default language from C++ to Go** — first month of building Go fluency for SRE tooling
+- **Studying for CKA + AZ-104** (~July 2026)
+
+#### Stack
+
+`Go` `Bash` `Python` `Azure` `Kubernetes` `Docker` `Terraform` `Helm` `Prometheus` `Grafana` `Loki`
+
+#### Find me
+
+[Blog](https://umeshdas.dev) · [LinkedIn](https://linkedin.com/in/umesh-das-4a4ba521a) · [Email](mailto:[umeshdas.work@gmail.com])
+
+---
